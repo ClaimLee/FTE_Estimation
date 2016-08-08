@@ -1,0 +1,97 @@
+Year,Specialty,WorkloadDriver,NoCase,Short_Fall,NoCase_15Percent
+2015,Geriatric Medicine,Day Surgery,1,0,1
+2015,Neurosurgery,Day Surgery,5,7,12
+2015,Geriatric Medicine,Inpatient Surgery,109,0,109
+2015,EYE,Inpatient Surgery,155,56,211
+2015,EYE,Inpatient Discharges,139,122,261
+2015,Neurosurgery,Inpatient Surgery,388,97,485
+2015,Neurosurgery,Inpatient Discharges,813,58,871
+2015,Urology,Inpatient Surgery,968,69,1037
+2015,ENT,Inpatient Discharges,1102,0,1102
+2015,Urology,Inpatient Discharges,891,223,1114
+2015,Orthopaedic Surgery,Day Surgery,1241,0,1241
+2015,ENT,Inpatient Surgery,1432,0,1432
+2015,Urology,Day Surgery,2070,518,2588
+2015,General Medicine,Inpatient Surgery,2925,0,2925
+2015,Geriatric Medicine,Inpatient Discharges,3423,0,3423
+2015,Orthopaedic Surgery,Inpatient Discharges,3591,257,3848
+2015,Orthopaedic Surgery,Inpatient Surgery,3153,788,3941
+2015,Neurosurgery,Outpatient,2143,1875,4018
+2015,General Medicine,Day Surgery,2678,2343,5021
+2015,General Surgery,Inpatient Surgery,4539,1135,5674
+2015,General Surgery,Day Surgery,5759,0,5759
+2015,General Surgery,Inpatient Discharges,6156,0,6156
+2015,Geriatric Medicine,Outpatient,7619,0,7619
+2015,ENT,Day Surgery,8075,0,8075
+2015,EYE,Day Surgery,5639,4934,10573
+2015,General Medicine,Inpatient Discharges,17491,0,17491
+2015,Urology,Outpatient,17138,6232,23370
+2015,ENT,Outpatient,27870,4288,32158
+2015,General Surgery,Outpatient,22792,15195,37987
+2015,General Medicine,Outpatient,51370,18680,70050
+2015,Orthopaedic Surgery,Outpatient,56204,14051,70255
+2015,EYE,Outpatient,55082,36721,91803
+2013,Orthopaedic Surgery,Day Surgery,933,NA,NA
+2014,Orthopaedic Surgery,Day Surgery,1075,NA,NA
+2014,Urology,Day Surgery,1624,NA,NA
+2013,Urology,Day Surgery,1755,NA,NA
+2013,General Medicine,Day Surgery,2062,NA,NA
+2014,General Medicine,Day Surgery,2388,NA,NA
+2013,EYE,Day Surgery,4498,NA,NA
+2013,General Surgery,Day Surgery,4853,NA,NA
+2014,General Surgery,Day Surgery,4967,NA,NA
+2014,EYE,Day Surgery,5098,NA,NA
+2013,ENT,Day Surgery,6614,NA,NA
+2014,ENT,Day Surgery,7668,NA,NA
+2013,Neurosurgery,Day Surgery,NA,NA,NA
+2014,Neurosurgery,Day Surgery,NA,NA,NA
+2013,Geriatric Medicine,Day Surgery,NA,NA,NA
+2014,Geriatric Medicine,Day Surgery,NA,NA,NA
+2014,EYE,Inpatient Discharges,121,NA,NA
+2013,EYE,Inpatient Discharges,129,NA,NA
+2014,Urology,Inpatient Discharges,679,NA,NA
+2013,Urology,Inpatient Discharges,703,NA,NA
+2014,Neurosurgery,Inpatient Discharges,956,NA,NA
+2014,ENT,Inpatient Discharges,1057,NA,NA
+2013,ENT,Inpatient Discharges,1127,NA,NA
+2013,Neurosurgery,Inpatient Discharges,1234,NA,NA
+2013,Geriatric Medicine,Inpatient Discharges,3413,NA,NA
+2013,Orthopaedic Surgery,Inpatient Discharges,3631,NA,NA
+2014,Orthopaedic Surgery,Inpatient Discharges,3823,NA,NA
+2014,Geriatric Medicine,Inpatient Discharges,4078,NA,NA
+2014,General Surgery,Inpatient Discharges,5800,NA,NA
+2013,General Surgery,Inpatient Discharges,5896,NA,NA
+2013,General Medicine,Inpatient Discharges,16279,NA,NA
+2014,General Medicine,Inpatient Discharges,17187,NA,NA
+2014,Geriatric Medicine,Inpatient Surgery,95,NA,NA
+2013,Urology,Inpatient Surgery,598,NA,NA
+2014,Urology,Inpatient Surgery,685,NA,NA
+2013,General Medicine,Inpatient Surgery,1985,NA,NA
+2014,General Medicine,Inpatient Surgery,2893,NA,NA
+2013,Orthopaedic Surgery,Inpatient Surgery,3077,NA,NA
+2014,Orthopaedic Surgery,Inpatient Surgery,3411,NA,NA
+2013,General Surgery,Inpatient Surgery,4912,NA,NA
+2014,General Surgery,Inpatient Surgery,5856,NA,NA
+2013,ENT,Inpatient Surgery,NA,NA,NA
+2013,EYE,Inpatient Surgery,NA,NA,NA
+2013,Neurosurgery,Inpatient Surgery,NA,NA,NA
+2014,ENT,Inpatient Surgery,NA,NA,NA
+2014,EYE,Inpatient Surgery,NA,NA,NA
+2014,Neurosurgery,Inpatient Surgery,NA,NA,NA
+2013,Geriatric Medicine,Inpatient Surgery,NA,NA,NA
+2014,Neurosurgery,Outpatient,2239,NA,NA
+2013,Neurosurgery,Outpatient,2518,NA,NA
+2013,Geriatric Medicine,Outpatient,7081,NA,NA
+2014,Geriatric Medicine,Outpatient,7178,NA,NA
+2013,Urology,Outpatient,14789,NA,NA
+2014,Urology,Outpatient,14820,NA,NA
+2013,General Surgery,Outpatient,21124,NA,NA
+2014,General Surgery,Outpatient,21530,NA,NA
+2013,ENT,Outpatient,25607,NA,NA
+2014,ENT,Outpatient,26316,NA,NA
+2013,General Medicine,Outpatient,43136,NA,NA
+2014,General Medicine,Outpatient,48001,NA,NA
+2013,EYE,Outpatient,50175,NA,NA
+2014,EYE,Outpatient,52749,NA,NA
+2013,Orthopaedic Surgery,Outpatient,54368,NA,NA
+2014,Orthopaedic Surgery,Outpatient,54709,NA,NA
